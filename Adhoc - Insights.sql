@@ -198,4 +198,4 @@ cte1 as(
         select *, 
         dense_rank()  OVER(PARTITION BY division order by total_sold_quantity desc)as rank_order 
         from cte)
-select * from cte1 where rank_order <= 3;
+select * from cte1 where rank_order <= 3;  
