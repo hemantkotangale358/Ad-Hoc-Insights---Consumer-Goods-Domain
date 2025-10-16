@@ -1,16 +1,45 @@
-Domain : Consumer Goods
-🚀 Project Overview: Unveiling Atliq Hardware Insights
+# 🛍️ Consumer Goods Ad-Hoc Insights using SQL
 
-Embarking on this journey, I delved deep into the realm of Atliq Hardware, a leading player in computer hardware. The mission? Empower the management with valuable MySQL-driven insights.
+## 📊 Project Overview
 
-💻 Tools & Approach: Navigating with MySQL and PowerBI
+This project focuses on analyzing consumer goods data using SQL to generate 10 ad-hoc insights that help in better business decision-making.
 
-I harnessed the power of MySQL, exploring concepts like Joins, CTEs, Subqueries, and more.
+---
 
-📊 Key Findings & Solutions: Paving the Way for Success
+## 🏢 Domain & Company
 
-From Gross Profit to Average Manufacturing Cost, I unveiled crucial metrics that laid the foundation for strategic solutions. My proposals included boosting production rates through innovative strategies like memberships, gift certificates, bundled deals, student discounts, and more.
+- **Domain:** Consumer Goods  
+- **Company:** AtliQ Hardware (use-case scenario)  
+- **Goal:** Generate 10 meaningful business insights using SQL queries
 
-🤓 What I've Learned: Mastering SQL for Real-World Impact
+---
 
-This project was my SQL playground, providing hands-on experience with real-world data. I mastered the art of transforming raw information into actionable insights – a skill vital in the dynamic landscape of data analytics.
+## 🧠 SQL Concepts Used
+
+- SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT  
+- Joins (INNER, LEFT, RIGHT)  
+- Subqueries and CTEs (WITH)  
+- Window Functions (OVER, DENSE_RANK)  
+- Aggregate functions and filtering
+
+---
+
+## 🧰 Tools Used
+
+- 🐬 **MySQL** – for writing and executing SQL queries
+
+---
+
+## 🧭 Problem Statement
+
+The company needed data-driven insights for decision-making but lacked quick and structured reporting.  
+This project uses SQL to extract, analyze, and summarize key metrics directly from the database.
+
+---
+
+## 🏆 Key Outcomes
+
+- Identified top-performing products and regions  
+- Analyzed revenue patterns and customer contribution  
+- Detected market trends and gaps  
+- Delivered 10 clear, data-backed insights
